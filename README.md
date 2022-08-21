@@ -20,3 +20,5 @@
 ![](Demo/Slide5.jpg)
 ### example
 ![](Demo/ReportBugFixed_LeaderBoardUpdate.jpg)
+## Front-end part(Based on Power apps)
+github-link: https://github.com/zer0pacity/deep-work/blob/main/README.md
